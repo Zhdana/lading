@@ -1,0 +1,100 @@
+@import url(reset.css);
+#body{
+	color: #ffffff;
+	
+}
+
+.clear{
+	clear: both;
+}
+#top-heder{
+	height: 84px;
+	margin: 0 auto;
+	width: 1041px;
+}
+
+#logo{
+	float: left;
+	margin: 20px 0 28px 0;
+}
+#menu{
+	width: 561px;
+	height: 84px;
+	padding: 39px 0 34px 0;
+	margin: 0 47px 0 333px;
+}
+#heder ul{
+	overflow: hidden;
+}
+#heder ul li{
+	float: left;
+	text-transform: uppercase;
+	margin-right: 27px;
+}
+#heder ul li a{
+	color: #9f9f9f;
+	font:13px Opensans, Verdana, Helvetica, sans-serif;
+	text-decoration: none;
+}
+#login{
+	float: right;
+	margin: -129px 0 22px 0;
+}
+#bottom-heder{
+	width: 1300px;
+	height: 520px;
+	background: url(../images/heder_bg.jpg) no-repeat;
+	margin: 0 auto;
+	padding-top: 168px;
+	position: relative;
+}
+h2{
+	color: #ffffff;
+	font: 49px Myriad Pro Verdana, Helvetica, sans-serif;
+	margin: 0 auto;
+	width: 826px;
+}
+h3{
+	color: #ffffff;
+	font: 35px Myriad Pro Verdana, Helvetica, sans-serif;
+	margin: 28px auto 73px;
+	width: 199px;
+	margin-top: 28px;
+}
+#heder-button{
+	width: 254px;
+	height: 73px;
+	margin: 0 auto;
+}
+#arrows{
+	width: 56px;
+	position: absolute;
+	top: 500px;
+	left: 1100px;
+}
+#left{
+	float: left;
+}
+#right{
+	float: right;
+}
+#icon{
+	margin: 0 auto;
+	width: 58px;
+	height: 58px;
+}
+h4{
+	font:31px Opensans, Verdana, Helvetica, sans-serif;
+	text-transform: uppercase;
+	color: #515151;
+	width: 547px;
+	margin: 14px auto;
+	
+}
+#top-content p{
+	font:19px Opensans, Verdana, Helvetica, sans-serif;
+	color: #c6c6c6;
+	width: 922px;
+	margin: 24px auto;
+	
+}
